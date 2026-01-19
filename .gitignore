@@ -102,6 +102,7 @@ Thumbs.db
 
 # Project specific
 data/*.fasta
+!data/test.fasta
 data/*.fastq
 data/*.gb
 data/*.gbk

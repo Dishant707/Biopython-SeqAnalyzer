@@ -1,0 +1,8 @@
+>seq1 Test sequence with 50% GC content
+ATGCATGCATGCATGCATGC
+>seq2 Test sequence for translation (ATG = Met, TAA = Stop)
+ATGAAATTTGGGTAA
+>seq3 Test sequence with known reverse complement
+AAACCCGGGTTTATGC
+>seq4 Sequence with ambiguous nucleotides
+ATGNNNRYSWKMBDHV
