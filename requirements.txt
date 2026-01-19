@@ -1,0 +1,16 @@
+# Biopython-SeqAnalyzer Dependencies
+
+# Core bioinformatics library
+biopython>=1.81
+
+# Testing framework
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# CLI interface
+click>=8.1.0
+
+# Optional: Development tools
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
